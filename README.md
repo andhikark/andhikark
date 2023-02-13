@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello my name is Putu Andhika Restu Kurnia from Bali Island
 
-<br>🔭 I’m currently study at King Mongkut University of Thonburi Thailand<br>👯 I’m having interest in Software enginneer, Data Science and Cyber Security<br>⚡ Fun fact: I'm INFJ<br> <b>Let's connect with my social media below :) <b>
+<br>🔭 I’m currently study at King Mongkut University of Thonburi Thailand<br>👯 I’m having interest in Software enginneer, Data Science and Cyber Security<br>⚡ Fun fact: I'm INFJ<br> <b>Let's connect with my social media below :) </b>
 
 
 ## 🌐 Socials:
