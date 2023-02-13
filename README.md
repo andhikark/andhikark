@@ -14,8 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andhikark&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikark&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2057%20mins-blue)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andhikark&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
