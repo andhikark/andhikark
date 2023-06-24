@@ -2,7 +2,8 @@
 Hello my name is Putu Andhika Restu Kurnia from Bali 
 
 <br>🔭 I’m currently study at King Mongkut University of Thonburi Thailand<br>👯 I’m having interest in Software enginneer, Data Science and Cyber Security<br>⚡ Fun fact: I'm INFJ<br> 
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andhikark/)!
+<br>
 
 # 💻 Tech Stack:
 
@@ -49,10 +50,14 @@ Hello my name is Putu Andhika Restu Kurnia from Bali
   </p>
 </details>
 
+<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andhikark&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&PAT_1)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andhikark&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikark&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andhikark&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
