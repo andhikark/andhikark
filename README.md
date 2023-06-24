@@ -32,7 +32,7 @@ Hello my name is Putu Andhika Restu Kurnia from Bali
 </details>
 
 <details>
-  <summary><strong>Database</strong></summary
+  <summary><strong>Database</strong></summary>
   <p align="left">
     </a> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
     </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
@@ -40,7 +40,7 @@ Hello my name is Putu Andhika Restu Kurnia from Bali
 </details>
 
 <details>
-  <summary><strong>Software and tools </strong></summary
+  <summary><strong>Software and tools </strong></summary>
   <p align="left">
     </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
     </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
