@@ -3,10 +3,52 @@ Hello my name is Putu Andhika Restu Kurnia from Bali
 
 <br>🔭 I’m currently study at King Mongkut University of Thonburi Thailand<br>👯 I’m having interest in Software enginneer, Data Science and Cyber Security<br>⚡ Fun fact: I'm INFJ<br> 
 
-# 💻 Tech Stack:
-<p align="left"></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
+## Tech Stack
+
+<details>
+  <summary>💻 &nbsp;Programming languages</summary>
+  <p></p>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt="js" width="48px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' alt="ts" width="48px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt="css" width="48px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt="html" width="48px" height="40px">
+  <img src='https://www.w3schools.com/cpp/' alt="c++" width="48px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt="python" width="48px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="48px" height="40px">
+</details>
+<details>
+  <summary>🧰 &nbsp;Frameworks and libraries</summary>
+  <p></p>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'  alt="react" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg' alt="mui" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg' alt="flutter" width="44px" height="36px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' alt="vue" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg' alt="nuxt" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' alt="node" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' alt="express" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg' alt="nestjs" width="44px" height="40px">
+</details>
+<details>
+  <summary>🗂 &nbsp;Databases</summary>
+  <p></p>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' alt="mysql" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' alt="postgresql" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' alt="mongodb" width="44px" height="40px">
+</details>
+<details>
+  <summary>🛠 &nbsp;Software and tools</summary>
+  <p></p>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' alt="figma" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg' alt="canva" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt="vscode" width="44px" height="38px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg' alt="intj" width="44px" height="38px">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" alt="postman" width="40px" height="40px"/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg' alt="jupyter" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt="git" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="github" width="44px" height="40px">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg' alt="raspi" width="44px" height="40px">
+</details>
+
 
 
 
