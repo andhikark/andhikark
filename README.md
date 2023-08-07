@@ -4,10 +4,10 @@ Hello my name is Andhika Restu from Bali
 <br>🔭 I’m currently study at King Mongkut University of Thonburi Thailand<br>👯 I’m having interest in Software enginneer, Data Science and Cyber Security<br>⚡ Fun fact: I'm INFJ<br> <br/>
 Feel free to connect with me on
 <br/> 
-<ul>
-  <li>[LinkedIn](https://www.linkedin.com/in/andhikark/)</li>
-  <li>[Instagran](https://instagram.com/https.andhikark_?igshid=NGExMmI2YTkyZg==)</li>
-</ul>
+  [LinkedIn](https://www.linkedin.com/in/andhikark/)
+  <br/>
+  [Instagran](https://instagram.com/https.andhikark_?igshid=NGExMmI2YTkyZg==)
+
 
 # 💻 Tech Stack:
 
